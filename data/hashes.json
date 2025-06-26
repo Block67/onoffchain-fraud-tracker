@@ -1,0 +1,10 @@
+{
+  "hachages_frauduleux": [
+    {
+      "hash": "0x1234567890abcdef",
+      "type": "transaction",
+      "blockchain": "Ethereum",
+      "signalé_le": "2025-06-01"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "telephones_frauduleux": [
+    {
+      "numero": "+1234567890",
+      "pays": "US",
+      "source": "signalement_utilisateur",
+      "signalé_le": "2025-06-01"
+    }
+  ]
+}

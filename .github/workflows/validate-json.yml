@@ -1,0 +1,27 @@
+name: Valider les fichiers JSON
+
+on:
+  push:
+    paths:
+      - 'data/*.json'
+  pull_request:
+    paths:
+      - 'data/*.json'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+      - name: Valider les fichiers JSON
+        run: |
+          for file in data/*.json; do
+            python -m json.tool "$file" > /dev/null || exit 1
+          done

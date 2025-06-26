@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "nom": "bitcoinabuse.com",
+      "url": "https://www.bitcoinabuse.com",
+      "description": "Base de données d'adresses Bitcoin frauduleuses"
+    },
+    {
+      "nom": "signalement_utilisateur",
+      "url": null,
+      "description": "Signalements soumis par les utilisateurs"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "urls_frauduleuses": [
+    {
+      "url": "https://fakeexchange.com",
+      "type": "phishing",
+      "source": "signalement_utilisateur",
+      "signalé_le": "2025-06-01"
+    }
+  ]
+}

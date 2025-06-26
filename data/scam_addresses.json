@@ -1,0 +1,10 @@
+{
+  "adresses_frauduleuses": [
+    {
+      "adresse": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "type": "BTC",
+      "source": "bitcoinabuse.com",
+      "signalé_le": "2025-06-01"
+    }
+  ]
+}
