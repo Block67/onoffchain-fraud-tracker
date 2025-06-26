@@ -8,6 +8,6 @@
 
 Merci de ne pas publier publiquement les failles découvertes.
 
-Contacte-nous en privé à : [ton.email@example.com]
+Contacte-nous en privé à : [block6703@gmail.com]
 
 Nous répondrons rapidement pour corriger.

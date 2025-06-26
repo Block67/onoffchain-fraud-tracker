@@ -13,7 +13,7 @@ Un système de surveillance et de détection des fraudes crypto-monnaies qui com
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/votre-username/crypto-scam-tracker.git
+git clone https://github.com/Block67/onoffchain-fraud-tracker.git
 cd crypto-scam-tracker
 pip install -r requirements.txt
 ```
@@ -90,9 +90,9 @@ Ce projet est fourni à des fins éducatives et de recherche. Toujours vérifier
 
 ## 📞 Contact
 
-- 📧 Email : security@crypto-scam-tracker.com
-- 🐦 Twitter : @CryptoScamTracker
-- 💬 Telegram : t.me/cryptoscamtracker
+- 📧 Email : block6703@gmail.com
+- 🐦 Twitter : 
+- 💬 Telegram :
 
 ---
 
